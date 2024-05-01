@@ -1,4 +1,4 @@
-# Tableau-DashBoard
+# HR Analytics Dashboard With Tableau
 
 In This Project I Have Create a HR Analytics DashBoard & Analyse it that 
 How Many Departement are There , 
